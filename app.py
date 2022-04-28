@@ -5,7 +5,7 @@
 # python3 -m venv venv
 # source venv/bin/activate
 
-# 3. instalal dash and pandas
+# 3. install dash and pandas
 # pip3 install dash pandas
 
 
